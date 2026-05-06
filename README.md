@@ -16,8 +16,8 @@
 {
   "nombre": "Jonathas Carneiro",
   "rol": "Blue Team Analyst / SOC Analyst (en formación)",
-  "master": "Ciberseguridad — Campus Int. Ciberseguridad (UCAM)",
-  "graduacion": "Marzo 2027",
+  "estudios": "Ciberseguridad — Campus Int. Ciberseguridad (UCAM)",
+  "graduacion oficial": "Marzo 2027",
   "ubicacion": "Barcelona, España",
   "canal": "@DateUnH4ck — Ciberseguridad defensiva en español",
   "idiomas": ["Español", "Portugués", "Inglés"]
