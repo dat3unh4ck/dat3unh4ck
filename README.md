@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Dat3 Un H4ck</h1>
+<h1 align="center">🛡️ dat3unh4ck</h1>
 <h3 align="center">Blue Team Analyst · SOC · Defensive Security</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathas-jeo%C3%A1s-carneiro-de-almeida-4b9554311/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -88,17 +88,14 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 
 | # | Proyecto | Descripción | Área |
 |---|---------|-------------|------|
-| 01 | **Casebook: Investigaciones SOC E2E** | Investigaciones de incidentes documentadas desde la alerta hasta el cierre | Incident Response |
-| 02 | **Lab de Detección con Sentinel (KQL)** | Entorno Sentinel con reglas analíticas para lateral movement, privesc y exfiltración | SIEM / KQL |
-| 03 | **Ingeniería de Detección (Sigma y YARA)** | Reglas Sigma y firmas YARA validadas contra logs reales | Detection Engineering |
-| 04 | **Validación Purple Team** | Simulación de técnicas ATT&CK con Atomic Red Team | Purple Team |
-| 05 | **Defensa de Active Directory** | Lab AD con ataques simulados y detección con Sysmon | AD / ITDR |
-| 06 | **Análisis de Malware en Sandbox** | Análisis dinámico y estático con generación de IOCs y reglas YARA | Malware / DFIR |
-| 07 | **Pipeline de Threat Intelligence** | Infraestructura TI con MISP + OpenCTI y correlación de IOCs | Threat Intel |
-| 08 | **TFM: Domestic SOC** | SOC doméstico funcional como modelo escalable para PYMEs | TFM / En progreso |
-| 09 | **Automatización SOC: Playbooks SOAR** | Playbooks de triage, enriquecimiento y contención automática | SOAR / Automation |
+| 01 | **🔨 TFM: Domestic SOC** | Diseño e implementación de un SOC funcional completo (SIEM, IDS, SOAR) como modelo escalable para PYMEs | TFM / En progreso |
+| 02 | **Casebook: Investigaciones SOC E2E** | Investigaciones de incidentes reales documentadas desde la alerta inicial hasta el cierre del caso, con análisis forense y correlación de eventos | Incident Response |
+| 03 | **Lab de Detección con Microsoft Sentinel** | Entorno Sentinel con 10-15 reglas analíticas en KQL mapeadas a MITRE ATT&CK, validadas con Atomic Red Team | SIEM / KQL |
+| 04 | **Ingeniería de Detección (Sigma y YARA)** | Reglas Sigma reutilizables y firmas YARA para detección de familias de malware, validadas contra logs reales | Detection Engineering |
+| 05 | **Automatización SOC: Playbooks SOAR** | Playbooks de triage automático con integración de VirusTotal, AbuseIPDB y Shodan para reducir tiempo de respuesta | SOAR / Automation |
+| 06 | **Triaje de Alertas WAF y Ataques Web** | Análisis de logs WAF (ModSecurity), correlación con OWASP Top 10 y documentación de investigaciones desde perspectiva SOC | WAF / SOC L1-L2 |
 
-> 📌 *Cada proyecto está documentado paso a paso en [mi Notion](https://jonathasapuntes.notion.site/Jonathas-Carneiro-Ciberseguridad-Defensiva-SOC-2de10ea9b490803d9cc3c49ec44924e3?pvs=74). Los repositorios se irán publicando a medida que los complete.*
+> 📌 *Cada proyecto está documentado paso a paso en [mi Notion](https://jonathasapuntes.notion.site/Jonathas-Carneiro-Ciberseguridad-Defensiva-SOC-2de10ea9b490803d9cc3c49ec44924e3?pvs=74) con writeups completos, configs y reglas de detección.*
 
 ---
 
