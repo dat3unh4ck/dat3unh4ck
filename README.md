@@ -86,6 +86,8 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
   </tr>
 </table>
 
+**⬇️ Selección de los proyectos más relevantes** — la lista completa con writeups, configs y reglas está en mi Notion.
+
 | # | Proyecto | Descripción | Área |
 |---|---------|-------------|------|
 | 01 | **🔨 TFM: Domestic SOC** | Diseño e implementación de un SOC funcional completo (SIEM, IDS, SOAR) como modelo escalable para PYMEs | TFM / En progreso |
