@@ -1,7 +1,5 @@
-<![CDATA[<h1 align="center">🛡️ dat3unh4ck</h1>
-
+<h1 align="center">🛡️ dat3unh4ck</h1>
 <h3 align="center">Blue Team Analyst · SOC · Defensive Security</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathas-jeo%C3%A1s-carneiro-de-almeida-4b9554311/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@DateUnH4ck"><img src="https://img.shields.io/badge/-@DateUnH4ck-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -11,7 +9,7 @@
 
 ---
 
-## `> whoami`
+## > whoami
 
 ```json
 {
@@ -31,7 +29,7 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 
 ---
 
-## `> cat skills.json`
+## > cat skills.json
 
 ### 🔵 Blue Team / SOC
 
@@ -75,29 +73,29 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 
 ---
 
-## `> ls proyectos/`
+## > ls proyectos/
 
 | # | Proyecto | Descripción | Área |
 |---|---------|-------------|------|
-| 01 | **Casebook: Investigaciones SOC E2E** | Investigaciones de incidentes documentadas desde la alerta hasta el cierre | `Incident Response` |
-| 02 | **Lab de Detección con Sentinel (KQL)** | Entorno Sentinel con reglas analíticas para lateral movement, privesc y exfiltración | `SIEM · KQL` |
-| 03 | **Ingeniería de Detección (Sigma & YARA)** | Reglas Sigma y firmas YARA validadas contra logs reales | `Detection Engineering` |
-| 04 | **Validación Purple Team** | Simulación de técnicas ATT&CK con Atomic Red Team | `Purple Team` |
-| 05 | **Defensa de Active Directory** | Lab AD con ataques simulados y detección con Sysmon | `AD · ITDR` |
-| 06 | **Análisis de Malware en Sandbox** | Análisis dinámico/estático con generación de IOCs y reglas YARA | `Malware · DFIR` |
-| 07 | **Pipeline de Threat Intelligence** | Infraestructura TI con MISP + OpenCTI y correlación de IOCs | `Threat Intel` |
-| 08 | **🔨 TFM: Domestic SOC** | SOC doméstico funcional como modelo escalable para PYMEs | `TFM · En progreso` |
-| 09 | **Automatización SOC: Playbooks SOAR** | Playbooks de triage, enriquecimiento y contención automática | `SOAR · Automation` |
+| 01 | **Casebook: Investigaciones SOC E2E** | Investigaciones de incidentes documentadas desde la alerta hasta el cierre | Incident Response |
+| 02 | **Lab de Detección con Sentinel (KQL)** | Entorno Sentinel con reglas analíticas para lateral movement, privesc y exfiltración | SIEM / KQL |
+| 03 | **Ingeniería de Detección (Sigma y YARA)** | Reglas Sigma y firmas YARA validadas contra logs reales | Detection Engineering |
+| 04 | **Validación Purple Team** | Simulación de técnicas ATT&CK con Atomic Red Team | Purple Team |
+| 05 | **Defensa de Active Directory** | Lab AD con ataques simulados y detección con Sysmon | AD / ITDR |
+| 06 | **Análisis de Malware en Sandbox** | Análisis dinámico y estático con generación de IOCs y reglas YARA | Malware / DFIR |
+| 07 | **Pipeline de Threat Intelligence** | Infraestructura TI con MISP + OpenCTI y correlación de IOCs | Threat Intel |
+| 08 | **TFM: Domestic SOC** | SOC doméstico funcional como modelo escalable para PYMEs | TFM / En progreso |
+| 09 | **Automatización SOC: Playbooks SOAR** | Playbooks de triage, enriquecimiento y contención automática | SOAR / Automation |
 
 > 📌 *Los repositorios de estos proyectos se irán publicando a medida que los complete y documente.*
 
 ---
 
-## `> cat certificaciones.log`
+## > cat certificaciones.log
 
 | Estado | Certificación | Entidad |
 |--------|--------------|---------|
-| 📖 En curso | **Máster en Ciberseguridad** | Campus Int. Ciberseguridad · UCAM |
+| 📖 En curso | **Máster en Ciberseguridad** | Campus Int. Ciberseguridad / UCAM |
 | ✅ Obtenida | **Linux — Nivel Profesional** | — |
 | ✅ Completado | **Pre-Máster en Ciberseguridad** | — |
 | ✅ Completado | **Auditoría de Cumplimiento Cloud** | Práctica de máster |
@@ -106,7 +104,7 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 
 ---
 
-## `> neofetch`
+## > neofetch
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dat3unh4ck&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" alt="GitHub Stats">
@@ -121,10 +119,10 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 <h3 align="center">📬 Disponible para prácticas, proyectos colaborativos y oportunidades en Blue Team / SOC</h3>
 
 <p align="center">
-  <strong>🌐</strong> <a href="https://dat3unh4ck.github.io/dat3unh4ck/">Portfolio</a> · 
-  <strong>📺</strong> <a href="https://www.youtube.com/@DateUnH4ck">YouTube</a> · 
-  <strong>💼</strong> <a href="https://www.linkedin.com/in/jonathas-jeo%C3%A1s-carneiro-de-almeida-4b9554311/">LinkedIn</a> · 
-  <strong>✉️</strong> <a href="mailto:dat3unh4ck@gmail.com">Email</a>
+  <a href="https://dat3unh4ck.github.io/dat3unh4ck/">🌐 Portfolio</a> · 
+  <a href="https://www.youtube.com/@DateUnH4ck">📺 YouTube</a> · 
+  <a href="https://www.linkedin.com/in/jonathas-jeo%C3%A1s-carneiro-de-almeida-4b9554311/">💼 LinkedIn</a> · 
+  <a href="mailto:dat3unh4ck@gmail.com">✉️ Email</a>
 </p>
 
 <p align="center"><em>"Defend forward. Detect early. Respond fast."</em></p>
@@ -132,4 +130,3 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dat3unh4ck&color=1a1a2e&style=flat-square&label=Profile+Views" alt="Profile Views">
 </p>
-]]>
