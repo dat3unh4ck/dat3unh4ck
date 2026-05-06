@@ -106,10 +106,10 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 | Estado | Certificación | Entidad |
 |--------|--------------|---------|
 | 📖 En curso | **Máster en Ciberseguridad** | Campus Int. Ciberseguridad / UCAM |
-| ✅ Obtenida | **Linux — Nivel Profesional** | — |
-| ✅ Completado | **Pre-Máster en Ciberseguridad** | — |
-| ✅ Completado | **Auditoría de Cumplimiento Cloud** | Práctica de máster |
-| ✅ Completado | **Análisis Forense de Memoria (DFIR)** | Práctica de máster |
+| ✅ Obtenida | **Linux — Nivel Profesional** | Cisco |
+| ✅ Completado | **Pre-Máster en Ciberseguridad** | Campus Int. Ciberseguridad / UCAM |
+| ✅ Completado | **Auditoría de Cumplimiento Cloud** | Proyectos Prácticos |
+| ✅ Completado | **Análisis Forense de Memoria (DFIR)** | Proyectos Prácticos |
 | 📖 En preparación | **Cisco CyberOps Associate** | Cisco Networking Academy |
 
 ---
