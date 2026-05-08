@@ -113,13 +113,6 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 | ✅ Completado | **Criptografía** | Módulo del Máster · Criptografía aplicada (2026) |
 | ✅ Completado | **Seguridad Web** | Módulo del Máster · Seguridad de aplicaciones (2026) |
 
-**🐧 Certificaciones Linux**
-
-| Estado | Certificación | Detalle |
-|--------|--------------|---------|
-| ✅ Obtenida | **Linux — Nivel Profesional** | Certificaciones Linux (2025) |
-| ✅ Obtenida | **Fundamentos de Linux** | Administración de sistemas Linux (2025) |
-
 **🛡️ Certificaciones Profesionales**
 
 | Estado | Certificación | Detalle |
