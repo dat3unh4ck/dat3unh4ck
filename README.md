@@ -1,5 +1,6 @@
 <h1 align="center">Jonathas Carneiro</h1>
 <h3 align="center">🛡️ Blue Team Analyst · SOC · Defensive Security</h3>
+<p align="center"><code>dat3unh4ck</code> · <a href="https://www.youtube.com/@DateUnH4ck">@DateUnH4ck</a></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathas-jeo%C3%A1s-carneiro-de-almeida-4b9554311/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@DateUnH4ck"><img src="https://img.shields.io/badge/-@DateUnH4ck-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
@@ -16,8 +17,8 @@
 {
   "nombre": "Jonathas Carneiro",
   "rol": "Blue Team Analyst / SOC Analyst (en formación)",
-  "estudios": "Ciberseguridad — Campus Int. Ciberseguridad (UCAM)",
-  "graduacion oficial": "Marzo 2027",
+  "master": "Ciberseguridad — Campus Int. Ciberseguridad (UCAM)",
+  "graduacion": "Marzo 2027",
   "ubicacion": "Barcelona, España",
   "canal": "@DateUnH4ck — Ciberseguridad defensiva en español",
   "idiomas": ["Español", "Portugués", "Inglés"]
@@ -103,14 +104,27 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 
 ## > cat certificaciones.log
 
-| Estado | Certificación | Entidad |
+**🎓 Máster en Ciberseguridad · UCAM**
+
+| Estado | Certificación | Detalle |
 |--------|--------------|---------|
-| 📖 En curso | **Máster en Ciberseguridad** | Campus Int. Ciberseguridad / UCAM |
-| ✅ Obtenida | **Linux — Nivel Profesional** | Cisco |
-| ✅ Completado | **Pre-Máster en Ciberseguridad** | Campus Int. Ciberseguridad / UCAM |
-| ✅ Completado | **Auditoría de Cumplimiento Cloud** | Proyectos Prácticos |
-| ✅ Completado | **Análisis Forense de Memoria (DFIR)** | Proyectos Prácticos |
-| 📖 En preparación | **Cisco CyberOps Associate** | Cisco Networking Academy |
+| 📖 En curso | **Máster en Ciberseguridad** | Campus Int. Ciberseguridad · UCAM (2025–2027) |
+| ✅ Completado | **Pre-Máster en Ciberseguridad** | Fundamentos de Seguridad · Campus Internacional (2025) |
+| ✅ Completado | **Criptografía** | Módulo del Máster · Criptografía aplicada (2026) |
+| ✅ Completado | **Seguridad Web** | Módulo del Máster · Seguridad de aplicaciones (2026) |
+
+**🐧 Certificaciones Linux**
+
+| Estado | Certificación | Detalle |
+|--------|--------------|---------|
+| ✅ Obtenida | **Linux — Nivel Profesional** | Certificaciones Linux (2025) |
+| ✅ Obtenida | **Fundamentos de Linux** | Administración de sistemas Linux (2025) |
+
+**🛡️ Certificaciones Profesionales**
+
+| Estado | Certificación | Detalle |
+|--------|--------------|---------|
+| 📖 En preparación | **Cisco CyberOps Associate** | Cisco Networking Academy (2026) |
 
 ---
 
