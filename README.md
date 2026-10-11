@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/jonathas-jeo%C3%A1s-carneiro-de-almeida-4b9554311/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@DateUnH4ck"><img src="https://img.shields.io/badge/-@DateUnH4ck-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:dat3unh4ck@gmail.com"><img src="https://img.shields.io/badge/-dat3unh4ck@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://dat3unh4ck.github.io"><img src="https://img.shields.io/badge/-Portfolio_Web-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://jonathasapuntes.notion.site/Jonathas-Carneiro-Ciberseguridad-Defensiva-SOC-2de10ea9b490803d9cc3c49ec44924e3?pvs=74"><img src="https://img.shields.io/badge/-Notion_—_Proyectos-FFFFFF?style=flat-square&logo=notion&logoColor=black" alt="Notion"></a>
 </p>
 
@@ -124,7 +123,6 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 <h3 align="center">📬 Disponible para prácticas, proyectos colaborativos y oportunidades en Blue Team / SOC</h3>
 
 <p align="center">
-  <a href="https://dat3unh4ck.github.io">🌐 Portfolio</a> · 
   <a href="https://jonathasapuntes.notion.site/Jonathas-Carneiro-Ciberseguridad-Defensiva-SOC-2de10ea9b490803d9cc3c49ec44924e3?pvs=74">📓 Notion</a> · 
   <a href="https://www.youtube.com/@DateUnH4ck">📺 YouTube</a> · 
   <a href="https://www.linkedin.com/in/jonathas-jeo%C3%A1s-carneiro-de-almeida-4b9554311/">💼 LinkedIn</a> · 
