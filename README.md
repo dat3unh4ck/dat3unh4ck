@@ -86,16 +86,26 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
   </tr>
 </table>
 
-**⬇️ Selección de los proyectos más relevantes** — la lista completa con writeups, configs y reglas está en mi Notion.
+### ✅ Terminados — con repositorio
 
-| # | Proyecto | Descripción | Área |
-|---|---------|-------------|------|
-| 01 | **🔨 TFM: Domestic SOC** | Diseño e implementación de un SOC funcional completo (SIEM, IDS, SOAR) como modelo escalable para PYMEs | TFM / En progreso |
-| 02 | **Casebook: Investigaciones SOC E2E** | Investigaciones de incidentes reales documentadas desde la alerta inicial hasta el cierre del caso, con análisis forense y correlación de eventos | Incident Response |
-| 03 | **Lab de Detección con Microsoft Sentinel** | Entorno Sentinel con 10-15 reglas analíticas en KQL mapeadas a MITRE ATT&CK, validadas con Atomic Red Team | SIEM / KQL |
-| 04 | **Ingeniería de Detección (Sigma y YARA)** | Reglas Sigma reutilizables y firmas YARA para detección de familias de malware, validadas contra logs reales | Detection Engineering |
-| 05 | **Automatización SOC: Playbooks SOAR** | Playbooks de triage automático con integración de VirusTotal, AbuseIPDB y Shodan para reducir tiempo de respuesta | SOAR / Automation |
-| 06 | **Triaje de Alertas WAF y Ataques Web** | Análisis de logs WAF (ModSecurity), correlación con OWASP Top 10 y documentación de investigaciones desde perspectiva SOC | WAF / SOC L1-L2 |
+| Proyecto | Qué hay dentro | Área |
+|---------|----------------|------|
+| **[🛡️ SIEM con ELK Stack](https://github.com/dat3unh4ck/elk-siem-lab)** | Pila ELK sobre Docker Compose, pipeline de ingesta de 7 etapas, 5 reglas Sigma, 5 reglas SIEM mapeadas a ATT&CK y enriquecimiento con AbuseIPDB/VirusTotal | SIEM / Detection Engineering |
+| **[🔎 Casebook: Investigaciones SOC E2E](https://jonathasapuntes.notion.site/Jonathas-Carneiro-Ciberseguridad-Defensiva-SOC-2de10ea9b490803d9cc3c49ec44924e3?pvs=74)** | 3 investigaciones completas en Splunk (SPL) y KQL siguiendo NIST SP 800-61, con pivoteo entre fuentes y mapeo ATT&CK | Incident Response |
+| **[🔒 Bastionado de Servidores Linux](https://jonathasapuntes.notion.site/Jonathas-Carneiro-Ciberseguridad-Defensiva-SOC-2de10ea9b490803d9cc3c49ec44924e3?pvs=74)** | 7 fases de hardening (PAM, SSH, nftables, sysctl, AIDE, Fail2Ban) con Hardening Index de Lynis medido antes y después | Hardening / Compliance |
+
+### 🚧 En desarrollo
+
+| Proyecto | Área |
+|---------|------|
+| Laboratorio de Detección con Microsoft Sentinel (KQL) | SIEM / KQL |
+| Ingeniería de Detección (Sigma & YARA) | Detection Engineering |
+| Triaje de Alertas WAF y Ataques Web | WAF / SOC L1-L2 |
+| Gestión de Casos con TheHive · Defensa de Active Directory · Análisis de Malware en Sandbox | IR / AD / Malware |
+
+### 🎯 Roadmap hasta el TFM
+
+Automatización SOC con playbooks SOAR · Pipeline de Threat Intelligence (MISP + OpenCTI) · Detección de amenazas de identidad (ITDR) · Validación Purple Team con Atomic Red Team · Análisis forense de memoria (DFIR) · Detección de anomalías con ML · **TFM: "Domestic SOC"** — SOC funcional completo como modelo escalable para PYMEs.
 
 > 📌 *Cada proyecto está documentado paso a paso en [mi Notion](https://jonathasapuntes.notion.site/Jonathas-Carneiro-Ciberseguridad-Defensiva-SOC-2de10ea9b490803d9cc3c49ec44924e3?pvs=74) con writeups completos, configs y reglas de detección.*
 
