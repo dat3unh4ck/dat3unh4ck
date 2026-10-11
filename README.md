@@ -91,8 +91,7 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 | Proyecto | Qué hay dentro | Área |
 |---------|----------------|------|
 | **[🛡️ SIEM con ELK Stack](https://github.com/dat3unh4ck/elk-siem-lab)** | Pila ELK sobre Docker Compose, pipeline de ingesta de 7 etapas, 5 reglas Sigma, 5 reglas SIEM mapeadas a ATT&CK y enriquecimiento con AbuseIPDB/VirusTotal | SIEM / Detection Engineering |
-| **[🔎 Casebook: Investigaciones SOC E2E](https://jonathasapuntes.notion.site/Jonathas-Carneiro-Ciberseguridad-Defensiva-SOC-2de10ea9b490803d9cc3c49ec44924e3?pvs=74)** | 3 investigaciones completas en Splunk (SPL) y KQL siguiendo NIST SP 800-61, con pivoteo entre fuentes y mapeo ATT&CK | Incident Response |
-| **[🔒 Bastionado de Servidores Linux](https://jonathasapuntes.notion.site/Jonathas-Carneiro-Ciberseguridad-Defensiva-SOC-2de10ea9b490803d9cc3c49ec44924e3?pvs=74)** | 7 fases de hardening (PAM, SSH, nftables, sysctl, AIDE, Fail2Ban) con Hardening Index de Lynis medido antes y después | Hardening / Compliance |
+| **[🔎 SOC Casebook](https://github.com/dat3unh4ck/soc-casebook)** | 3 investigaciones de incidentes de extremo a extremo (NIST SP 800-61 + MITRE ATT&CK) en Splunk, KQL y Wireshark, con consultas reutilizables e IOCs | Incident Response |
 
 ### 🚧 En desarrollo
 
