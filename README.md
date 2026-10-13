@@ -92,6 +92,7 @@ Creo que la mejor forma de aprender ciberseguridad defensiva es hacerla **públi
 |---------|----------------|------|
 | **[🛡️ SIEM con ELK Stack](https://github.com/dat3unh4ck/elk-siem-lab)** | Pila ELK sobre Docker Compose, pipeline de ingesta de 7 etapas, 5 reglas Sigma, 5 reglas SIEM mapeadas a ATT&CK y enriquecimiento con AbuseIPDB/VirusTotal | SIEM / Detection Engineering |
 | **[🔎 SOC Casebook](https://github.com/dat3unh4ck/soc-casebook)** | 3 investigaciones de incidentes de extremo a extremo (NIST SP 800-61 + MITRE ATT&CK) en Splunk, KQL y Wireshark, con consultas reutilizables e IOCs | Incident Response |
+| **[🔒 Bastionado de Servidor Linux](https://github.com/dat3unh4ck/linux-hardening-lab)** | Endurecimiento por fases de Ubuntu Server 24.04 medido con Lynis (índice 61 → 82), 8 scripts con copia de seguridad, verificación del estado efectivo y reversión, 6 fallos reales documentados y 4 falsos positivos justificados | Hardening / System Security |
 
 ### 🚧 En desarrollo
 
