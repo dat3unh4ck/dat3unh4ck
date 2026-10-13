@@ -119,10 +119,12 @@ Cada proyecto está documentado paso a paso en [mi Notion](https://jonathasapunt
 
 | Estado | Certificación | Detalle |
 |--------|--------------|---------|
-| En curso | **Máster en Ciberseguridad** | Campus Int. Ciberseguridad · UCAM (2025–2027) |
+| En curso | **Máster en Ciberseguridad** | Campus Int. Ciberseguridad · UCAM · 60 ECTS / 1.500 h · 2025–2027 |
 | Completado | **Pre-Máster en Ciberseguridad** | Fundamentos de Seguridad · Campus Internacional (2025) |
-| Completado | **Criptografía** | Módulo del Máster · Criptografía aplicada (2026) |
-| Completado | **Seguridad Web** | Módulo del Máster · Seguridad de aplicaciones (2026) |
+| Completado | **Criptografía** | M1 · Criptografía aplicada (2026) |
+| Completado | **Seguridad Web** | M2 · Seguridad de aplicaciones web (2026) |
+| Completado | **OSINT** | M3 · Investigación en fuentes abiertas (2026) |
+| Completado | **Seguridad en Arquitecturas Linux** | M4 · Bastionado y arquitecturas de servidores (2026) |
 
 **Certificaciones profesionales**
 
